@@ -1,0 +1,51 @@
+2016-03-14 14:18:42 [103] [INFO] Starting gunicorn 17.5
+2016-03-14 14:18:42 [103] [INFO] Listening at: http://0.0.0.0:8000 (103)
+2016-03-14 14:18:42 [103] [INFO] Using worker: sync
+2016-03-14 14:18:42 [108] [INFO] Booting worker with pid: 108
+2016-03-14 14:18:42 [109] [INFO] Booting worker with pid: 109
+2016-03-14 14:18:42 [110] [INFO] Booting worker with pid: 110
+2016-03-14 14:18:42 [111] [INFO] Booting worker with pid: 111
+2016-03-14 14:18:42 [112] [INFO] Booting worker with pid: 112
+2016-03-14 14:18:42 [113] [INFO] Booting worker with pid: 113
+2016-03-14 14:18:42 [114] [INFO] Booting worker with pid: 114
+2016-03-14 14:18:42 [115] [INFO] Booting worker with pid: 115
+2016-03-14 14:18:42 [116] [INFO] Booting worker with pid: 116
+2016-03-14 14:18:42 [117] [INFO] Booting worker with pid: 117
+2016-03-14 14:18:42 [118] [INFO] Booting worker with pid: 118
+2016-03-14 14:18:43 [119] [INFO] Booting worker with pid: 119
+2016-03-14 14:18:43 [120] [INFO] Booting worker with pid: 120
+2016-03-14 14:18:43 [121] [INFO] Booting worker with pid: 121
+2016-03-14 14:18:43 [122] [INFO] Booting worker with pid: 122
+2016-03-14 14:18:43 [123] [INFO] Booting worker with pid: 123
+2016-03-14 14:20:08 [206] [INFO] Starting gunicorn 17.5
+
+Error: Already running on PID 206 (or pid file '/home/box/web/gunicorn/gunicorn.pid' is stale)
+
+2016-03-14 14:26:22 [691] [INFO] Starting gunicorn 17.5
+
+Error: Already running on PID 691 (or pid file '/home/box/web/gunicorn/gunicorn.pid' is stale)
+
+2016-03-14 14:31:11 [784] [INFO] Starting gunicorn 17.5
+
+Error: Already running on PID 784 (or pid file '/home/box/web/gunicorn/gunicorn.pid' is stale)
+
+2016-03-14 14:33:59 [832] [INFO] Starting gunicorn 17.5
+
+Error: Already running on PID 832 (or pid file '/home/box/web/gunicorn/gunicorn.pid' is stale)
+
+2016-03-14 14:40:39 [879] [INFO] Starting gunicorn 17.5
+
+Error: Already running on PID 879 (or pid file '/home/box/web/gunicorn/gunicorn.pid' is stale)
+
+2016-03-14 14:44:04 [929] [INFO] Starting gunicorn 17.5
+
+Error: Already running on PID 929 (or pid file '/home/box/web/gunicorn/gunicorn.pid' is stale)
+
+2016-03-14 14:47:31 [936] [INFO] Starting gunicorn 17.5
+
+Error: Already running on PID 936 (or pid file '/home/box/web/gunicorn/gunicorn.pid' is stale)
+
+2016-03-14 14:57:19 [1052] [INFO] Starting gunicorn 17.5
+
+Error: Already running on PID 1052 (or pid file '/home/box/web/gunicorn/gunicorn.pid' is stale)
+
