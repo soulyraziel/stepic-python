@@ -49,3 +49,22 @@ Error: Already running on PID 936 (or pid file '/home/box/web/gunicorn/gunicorn.
 
 Error: Already running on PID 1052 (or pid file '/home/box/web/gunicorn/gunicorn.pid' is stale)
 
+2016-03-20 11:17:10 [83] [INFO] Starting gunicorn 17.5
+2016-03-20 11:17:10 [83] [INFO] Listening at: http://0.0.0.0:8000 (83)
+2016-03-20 11:17:10 [83] [INFO] Using worker: sync
+2016-03-20 11:17:10 [134] [INFO] Booting worker with pid: 134
+2016-03-20 11:17:10 [136] [INFO] Booting worker with pid: 136
+2016-03-20 11:17:10 [158] [INFO] Booting worker with pid: 158
+2016-03-20 11:17:10 [161] [INFO] Booting worker with pid: 161
+2016-03-20 11:17:10 [171] [INFO] Booting worker with pid: 171
+2016-03-20 11:17:10 [175] [INFO] Booting worker with pid: 175
+2016-03-20 11:17:10 [180] [INFO] Booting worker with pid: 180
+2016-03-20 11:17:10 [188] [INFO] Booting worker with pid: 188
+2016-03-20 11:17:10 [189] [INFO] Booting worker with pid: 189
+2016-03-20 11:17:10 [195] [INFO] Booting worker with pid: 195
+2016-03-20 11:17:10 [200] [INFO] Booting worker with pid: 200
+2016-03-20 11:17:10 [203] [INFO] Booting worker with pid: 203
+2016-03-20 11:17:10 [213] [INFO] Booting worker with pid: 213
+2016-03-20 11:17:10 [215] [INFO] Booting worker with pid: 215
+2016-03-20 11:17:10 [218] [INFO] Booting worker with pid: 218
+2016-03-20 11:17:10 [222] [INFO] Booting worker with pid: 222
